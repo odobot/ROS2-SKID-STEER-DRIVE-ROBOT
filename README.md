@@ -6,7 +6,7 @@ you need to have installed:
 ->gazebo-ros: (sudo apt install ros-<ros2-distro>-gazebo-ros-pkgs)
 
 To view the urdf in rviz open 3 terminals:
--> 1st-ros2 launch my_bot rsp.launch.py
+-> 1st-ros2 launch skid_bot rsp.launch.py
 -> 2nd- rviz2
 -> 3rd ros2 run joint_state_publisher_gui joint_state_publisher_gui 
 
