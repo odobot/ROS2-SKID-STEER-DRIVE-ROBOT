@@ -1,0 +1,53 @@
+[0.056s] Invoking command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake /home/cheech/Desktop/Workspace/Four_wheeled_robot/src/skid_bot -DCMAKE_INSTALL_PREFIX=/home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot
+[1.062s] -- The C compiler identification is GNU 11.4.0
+[1.658s] -- The CXX compiler identification is GNU 11.4.0
+[1.684s] -- Detecting C compiler ABI info
+[1.888s] -- Detecting C compiler ABI info - done
+[1.897s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.899s] -- Detecting C compile features
+[1.900s] -- Detecting C compile features - done
+[1.907s] -- Detecting CXX compiler ABI info
+[2.077s] -- Detecting CXX compiler ABI info - done
+[2.086s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.086s] -- Detecting CXX compile features
+[2.087s] -- Detecting CXX compile features - done
+[2.116s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.430s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.768s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.993s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.000s] -- Added test 'flake8' to check Python code syntax and style conventions
+[3.004s] -- Added test 'lint_cmake' to check CMake code style
+[3.007s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[3.012s] -- Added test 'xmllint' to check XML markup files
+[3.020s] -- Configuring done
+[3.027s] -- Generating done
+[3.030s] -- Build files have been written to: /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot
+[3.036s] Invoked command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake /home/cheech/Desktop/Workspace/Four_wheeled_robot/src/skid_bot -DCMAKE_INSTALL_PREFIX=/home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot
+[3.040s] Invoking command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --build /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot -- -j8 -l8
+[3.134s] Invoked command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --build /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot -- -j8 -l8
+[3.239s] Invoking command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --install /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot
+[3.253s] -- Install configuration: ""
+[3.254s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/config
+[3.254s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/config/empty.yaml
+[3.254s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/description
+[3.255s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[3.255s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/launch
+[3.255s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/launch/rsp.launch.py
+[3.255s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/worlds
+[3.256s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/worlds/empty.world
+[3.256s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[3.256s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[3.256s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[3.256s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[3.257s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/environment/path.sh
+[3.257s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/environment/path.dsv
+[3.257s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/local_setup.bash
+[3.258s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/local_setup.sh
+[3.258s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/local_setup.zsh
+[3.258s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/local_setup.dsv
+[3.258s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/package.dsv
+[3.259s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[3.259s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[3.259s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[3.259s] -- Installing: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/my_bot/share/my_bot/package.xml
+[3.265s] Invoked command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --install /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot

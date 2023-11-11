@@ -1,0 +1,9 @@
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/uninstall.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/my_bot_uninstall.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/test.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/edit_cache.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/rebuild_cache.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/list_install_components.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/install.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/install/local.dir
+/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/my_bot/CMakeFiles/install/strip.dir

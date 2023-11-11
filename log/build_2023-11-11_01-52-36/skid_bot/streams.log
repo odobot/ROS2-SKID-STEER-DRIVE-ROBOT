@@ -1,0 +1,28 @@
+[0.056s] Invoking command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --build /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot -- -j8 -l8
+[0.123s] Invoked command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --build /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot -- -j8 -l8
+[0.185s] Invoking command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --install /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot
+[0.197s] -- Install configuration: ""
+[0.197s] -- Execute custom install script
+[0.198s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/config/empty.yaml
+[0.198s] -- Symlinking: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/gazebo_control.xacro
+[0.212s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/inertial_macros.xacro
+[0.212s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/robot.urdf.xacro
+[0.212s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/skid.xacro
+[0.212s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/launch/rsp.launch.py
+[0.212s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/worlds/empty.world
+[0.213s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/package_run_dependencies/skid_bot
+[0.213s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/parent_prefix_path/skid_bot
+[0.213s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/ament_prefix_path.sh
+[0.213s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/ament_prefix_path.dsv
+[0.213s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/path.sh
+[0.214s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/path.dsv
+[0.214s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.bash
+[0.214s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.sh
+[0.214s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.zsh
+[0.215s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.dsv
+[0.215s] -- Symlinking: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/package.dsv
+[0.229s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/packages/skid_bot
+[0.229s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/cmake/skid_botConfig.cmake
+[0.229s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/cmake/skid_botConfig-version.cmake
+[0.229s] -- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/package.xml
+[0.232s] Invoked command in '/home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cheech/ws_moveit2/install/moveit_configs_utils:/home/cheech/Desktop/Workspace/Raspberry/install/rasp:/home/cheech/Desktop/Workspace/Ruumba/install/trial:/home/cheech/Desktop/Workspace/AGV/install/hello_world:/home/cheech/Desktop/Workspace/AGV/install/Hello_world:/opt/ros/humble /usr/bin/cmake --install /home/cheech/Desktop/Workspace/Four_wheeled_robot/build/skid_bot

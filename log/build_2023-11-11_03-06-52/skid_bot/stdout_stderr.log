@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/config/empty.yaml
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/description/skid.xacro
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/launch/rsp.launch.py
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/worlds/empty.world
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/package_run_dependencies/skid_bot
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/parent_prefix_path/skid_bot
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/path.sh
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/environment/path.dsv
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.bash
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.sh
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.zsh
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/local_setup.dsv
+-- Symlinking: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/package.dsv
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/ament_index/resource_index/packages/skid_bot
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/cmake/skid_botConfig.cmake
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/cmake/skid_botConfig-version.cmake
+-- Up-to-date symlink: /home/cheech/Desktop/Workspace/Four_wheeled_robot/install/skid_bot/share/skid_bot/package.xml
