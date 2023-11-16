@@ -1,7 +1,7 @@
 # ROS2-SKID-STEER-DRIVE-ROBOT
-### Installation
+## Installation
 The package was made using [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
-### Dependencies
+## Dependencies
 You need to have installed:
 <br>
 1. ros-xacro:
@@ -16,7 +16,7 @@ You need to have installed:
    ```console
    sudo apt install ros-<ros2-distro>-gazebo-ros-pkgs
    ```
-### :hammer: How to build
+## :hammer: How to build
 To build the packages in this repository follow these steps:
 1. `cd` into an existing or create a new [workspace](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Creating-A-Workspace/Creating-A-Workspace.html)
    ```console
@@ -48,7 +48,7 @@ To build the packages in this repository follow these steps:
     ```console
     source ~/skidbot_ws/install/setup.bash
     ```
-### :movie_camera: Rviz
+## :movie_camera: Rviz
 To view the urdf in rviz open 3 terminals:
 <br>
 On the first terminal (needs to the terminal you sourced your setup.bash file in) type: 
@@ -64,7 +64,8 @@ third terminal
   ros2 run joint_state_publisher_gui joint_state_publisher_gui
  ```
 ![Screenshot from 2023-11-16 16-02-27](https://github.com/odobot/ROS2-SKID-STEER-DRIVE-ROBOT/assets/103571670/e7bb611b-5368-44b6-85a7-351850f8b926)
-### 🎥 Gazebo
+## 🎥 Gazebo
+### Default world
 To view and control the robot in gazebo:
 <br>
 Run:
@@ -75,6 +76,12 @@ ros2 launch skid_bot launch_sim.launch.py
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
 https://github.com/odobot/ROS2-SKID-STEER-DRIVE-ROBOT/assets/103571670/b3845ec1-4964-4fd9-8562-eed8877648f8
+
+### Custom world
+Run:
+```console
+ros2 launch skid_bot launch_sim.launch.py world:=<path to the custom world>
+```
 ### 🎥 Gazebo & Rviz
 Viewing the robot in gazebo and get its relative position to the centre using Rviz
 <br>
