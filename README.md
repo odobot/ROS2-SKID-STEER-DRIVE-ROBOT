@@ -2,7 +2,10 @@
 
 You need to have installed:
 <br>
-1. ros-xacro: `sudo apt install ros-<ros2-distro>-xacro`
+1. ros-xacro:
+   ```console
+   sudo apt install ros-<ros2-distro>-xacro
+   ```
 1. ros-joint-state-publisher: `sudo apt install ros-<ros2-distro>-joint-state-publisher-gui`
 1. gazebo-ros: `sudo apt install ros-<ros2-distro>-gazebo-ros-pkgs`
 
