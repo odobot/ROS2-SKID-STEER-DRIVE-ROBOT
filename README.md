@@ -26,7 +26,7 @@ To view the urdf in rviz open 3 terminals:
   ros2 run joint_state_publisher_gui joint_state_publisher_gui
  ```
 To view the robot in gazebo terminal, run:
-* ```
+* ```console
 ros2 launch skid_bot launch_sim.launch.py
 ```
 
