@@ -25,7 +25,7 @@ To build the packages in this repository follow these steps:
    cd skidbot_ws/src
    ```
    ```console
-   git clone
+   git clone https://github.com/odobot/ROS2-SKID-STEER-DRIVE-ROBOT.git
    ```
 3. Naviage back to the workspace folder
    ```console
