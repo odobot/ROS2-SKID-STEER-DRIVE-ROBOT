@@ -1,4 +1,6 @@
 # ROS2-SKID-STEER-DRIVE-ROBOT
+### Installation
+The package was made using [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
 ### Dependencies
 You need to have installed:
 <br>
